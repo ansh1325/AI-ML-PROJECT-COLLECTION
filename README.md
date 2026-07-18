@@ -1,6 +1,6 @@
 # 🚀 AI & ML Deployed Project Collection
 
-Welcome to my **AI-ML-PROJECT-COLLECTION** repository! This project serves as a comprehensive portfolio of my machine learning, data science, deep learning, and Generative AI web applications. The goal of this repository is to demonstrate a complete, end-to-end understanding of the data science lifecycle—spanning exploratory data analysis (EDA), foundational predictive and unsupervised models, custom deep neural networks, and interactive AI applications.
+Welcome to my **AI-ML-PROJECT-COLLECTION** repository! This project serves as a comprehensive portfolio of my machine learning, data science, deep learning, and Generative AI web applications. The goal of this repository is to demonstrate a complete, end-to-end understanding of the data science lifecycle—spanning exploratory data analysis (EDA), foundational predictive models, custom deep neural networks, and interactive AI applications.
 
 **📽️ [View the Final Project Presentation Here](https://docs.google.com/presentation/d/1ykTlOOa8RjWk0MuZqrCF-zq8TE1QSoqL-tGaZlibiWE/edit?usp=sharing)**
 
@@ -10,13 +10,12 @@ Welcome to my **AI-ML-PROJECT-COLLECTION** repository! This project serves as a 
 
 Explore the deployed Streamlit applications for each module of the collection here:
 
-### Foundational Machine Learning
+### Foundational Machine Learning & Data Science
 * **[Data Science Pipeline](https://ansh-demo-appuct-ejaea7gu8wcwpyexipnphs.streamlit.app/)**
 * **[Linear Regression Model](https://srmcem-internship-6aty6utnsoweamqghmhheu.streamlit.app/)**
 * **[Logistic Regression Model](https://logistic-regression-deployment-skmwerangmu3eeyxxugkbr.streamlit.app/)**
 
 ### Computer Vision & Deep Learning
-* **[Male/Female Image Classifier](https://male-female-classifier.streamlit.app/)**
 * **[Eye-Based Gender Classifier](https://eyes-gender-finder-3.streamlit.app/)**
 * **[Dog/Cat Image Classifier](https://dog-image-classifier-jspe6lbetkp4emrtgf6bj6.streamlit.app/)**
 * **[End-to-End CNN Binary Classifier](https://end-to-end-cnn-deployment-for-binary-image-classification-g4ty.streamlit.app/)**
@@ -39,25 +38,22 @@ A predictive modeling application that uses Linear Regression to forecast contin
 ### 3. Logistic Regression
 An interactive classification model currently tuned for HR analytics. It analyzes variables such as salary, department, and working hours to predict employee retention (whether an employee will stay or leave). It features dummy variable encoding and live accuracy scoring.
 
-### 4. Male/Female Image Classifier
-A computer vision application that processes full facial features to classify images as male or female. This project demonstrates image preprocessing, feature extraction, and deploying vision-based models into a seamless, user-facing Streamlit environment.
-
-### 5. Eye-Based Gender Classifier
+### 4. Gender Detection Using Eyes
 A highly specialized computer vision model trained to predict a person's gender analyzing solely an image of their eyes. This project highlights advanced deep learning techniques (like CNNs) to extract micro-features from localized regions of the face, performing inference accurately even when full facial data is obscured.
 
-### 6. Dog/Cat Image Classifier
+### 5. Dog/Cat Image Classifier
 A classic vision problem tackled through an interactive web app. This module takes user-uploaded images and classifies them into dogs or cats, showcasing the ability to handle unstructured image data and integrate predictive models into a highly accessible web interface.
 
-### 7. End-to-End CNN Binary Classifier
+### 6. End-to-End CNN Binary Classifier
 An advanced deep learning deployment featuring a custom Convolutional Neural Network (CNN) configured for binary image classification. This architecture showcases a production-ready vision pipeline—handling raw image normalization, layer-by-layer feature map extractions, and outputting live inference probabilities upon image upload.
 
-### 8. Covid Detection (PulmonaryNet)
+### 7. Covid Detection (PulmonaryNet)
 An automated medical radiograph classification system powered by deep learning. PulmonaryNet processes chest X-ray images to assist in early screening and detection of COVID-19, showcasing how advanced computer vision architectures can be applied safely and effectively to real-world healthcare datasets.
 
-### 9. RAG Chatbot
+### 8. RAG Chatbot
 An intelligent Generative AI application built using Retrieval-Augmented Generation (RAG). This chatbot allows users to query custom documents and receive accurate, context-aware answers. It highlights the integration of Large Language Models (LLMs) with vector databases for efficient semantic search and automated information retrieval.
 
-### 10. NLP Sentiment Analysis
+### 9. NLP Sentiment Analysis
 A Natural Language Processing application designed to analyze text inputs and determine the underlying sentiment (e.g., positive, negative, or neutral). This project demonstrates text preprocessing, tokenization, and the deployment of NLP classification models to evaluate user feedback or reviews in real-time.
 
 ---
