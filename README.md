@@ -2,7 +2,8 @@
 
 Welcome to my **AI-ML-PROJECT-COLLECTION** repository! This project serves as a comprehensive portfolio of my machine learning, data science, deep learning, and Generative AI web applications. The goal of this repository is to demonstrate a complete, end-to-end understanding of the data science lifecycle—spanning exploratory data analysis (EDA), foundational predictive models, custom deep neural networks, and interactive AI applications.
 
-**📽️ [View the Final Project Presentation Here](https://docs.google.com/presentation/d/1McyHLwL9CNu0gTgKyOAlmF8Lv-DzDvJLIpXS1bjweis/edit?usp=sharing)**
+**📽️ [Watch the Project Walkthrough Video on LinkedIn](https://www.linkedin.com/posts/anshprogrammer_this-is-the-aiml-project-collection-in-which-activity-7484389212352368640-F8eU?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlrQCgBJlIdPj0s2Rx7FxIB11A0tKoryNs)**  
+**📊 [View the Final Project Presentation Here](https://docs.google.com/presentation/d/1ykTlOOa8RjWk0MuZqrCF-zq8TE1QSoqL-tGaZlibiWE/edit?usp=sharing)**
 
 ---
 
